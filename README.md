@@ -15,6 +15,7 @@ Thus, the 4 mains steps for this project are:
 1. ```pip install -r requirements.txt```  to install all the web framework requirements.
 2. ```python wsgi``` to start the Flask API server.
 3. ```python request``` to run the provided example prediction test from `test_data.csv`
+
 Currently for display, `test_data.csv` contains the cleaned data which can be run in `request.py`. The main `input_data_parser` function will get csv file location and return input data for the model.
 
 ## Glassdoor Web Scraping
