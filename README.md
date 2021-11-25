@@ -67,6 +67,7 @@ The MAE for each model are provided bellow:
 *	**Two Layers Neural Network** : MAE = ~11382.29
 *	**Random Forest** : MAE = ~4477.67
 *	**XGBoost** : MAE = ~9070.99
+
 The Random Forest can be seen to outperfomed the other models so it will be used as the main prediction model.
 
 ## Deployment
